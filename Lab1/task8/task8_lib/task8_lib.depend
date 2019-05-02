@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553699740 source:c:\learn and design\university\c\lab1\task8\task8_lib\task7_func.c
+	<math.h>
+	"func.h"
+
+1553699752 c:\learn and design\university\c\lab1\task8\task8_lib\func.h
+
+1556636029 source:c:\learn and design\university\c\var14c\lab1\task8\task8_lib\task7_func.c
+	<math.h>
+	"func.h"
+
+1556636072 c:\learn and design\university\c\var14c\lab1\task8\task8_lib\func.h
+
